@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "face-api.js": "^0.22.2",
+    "framer-motion": "^12.7.4",
+    "react-scripts": "^5.0.1"
+  }
+}
